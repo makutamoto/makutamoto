@@ -1,6 +1,6 @@
 Makutamoto
 =====
-[![makutamoto](https://atcoder-badges.now.sh/api/atcoder/makutamoto)](https://atcoder.jp/users/makutamoto)
+![AtCoder Badges](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FMakutamoto)
 
 ゲーム
 -----
