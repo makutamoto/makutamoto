@@ -13,6 +13,10 @@ AtCoder系制作物
 - [AtCoder Badges](https://github.com/makutamoto/atcoder-badges)
 - [AtCoder相性診断](https://github.com/makutamoto/atcoder-aisho-shindan)
 
+Minecraft系制作物
+-----
+- [Minecraft Server Status Badge](https://github.com/makutamoto/minecraft-server-status-badge)
+
 その他
 -----
 - [Twitter User Heatmap](https://github.com/makutamoto/twitter-user-heatmap)
