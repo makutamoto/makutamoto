@@ -1,23 +1,28 @@
 Makutamoto
 =====
-![My life is failing...](https://img.shields.io/badge/build-failed-red)
-[![Makutamoto](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FMakutamoto)](https://atcoder.jp/users/Makutamoto)
-[![Makutamoto](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FMakutamoto)](https://codeforces.com/profile/Makutamoto)
+![My life is failing...](https://img.shields.io/badge/build-failed-red?style=for-the-badge)
+[![Makutamoto](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FMakutamoto&style=for-the-badge)](https://atcoder.jp/users/Makutamoto)
+[![Makutamoto](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FMakutamoto&style=for-the-badge)](https://codeforces.com/profile/Makutamoto)
 
-ゲーム
+よわよわ高専生。特に数学パチンコが苦手。
+
+[![Makutamoto's github stats](https://github-readme-stats.vercel.app/api?username=makutamoto&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makutamoto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+コマンドプロンプトゲーム
 -----
-- [コマンドプロンプト3Dレーシングゲーム](https://github.com/makutamoto/race-game)
+[![コマンドプロンプト3Dレーシングゲーム](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=race-game)](https://github.com/makutamoto/race-game)
 
 AtCoder系制作物
 -----
-- [AtCoder Badges](https://github.com/makutamoto/atcoder-badges)
-- [AtCoder相性診断](https://github.com/makutamoto/atcoder-aisho-shindan)
+[![AtCoder Badges](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=atcoder-badges)](https://github.com/makutamoto/atcoder-badges)
+[![AtCoder相性診断](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=atcoder-aisho-shindan)](https://github.com/makutamoto/atcoder-aisho-shindan)
 
 Minecraft系制作物
 -----
-- [Minecraft Server Status Badge](https://github.com/makutamoto/minecraft-server-status-badge)
+[![Minecraft Server Status Badge](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=minecraft-server-status-badge)](https://github.com/makutamoto/minecraft-server-status-badge)
 
 その他
 -----
-- [Twitter User Heatmap](https://github.com/makutamoto/twitter-user-heatmap)
-- [Cherry Grape](https://github.com/makutamoto/websyllabus-frontend)
+[![Twitter User Heatmap](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=twitter-user-heatmap)](https://github.com/makutamoto/twitter-user-heatmap)
+[![Cherry Grape](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=websyllabus-frontend)](https://github.com/makutamoto/websyllabus-frontend)
