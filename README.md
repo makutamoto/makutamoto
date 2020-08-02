@@ -26,3 +26,4 @@ Minecraft系制作物
 -----
 [![Twitter User Heatmap](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=twitter-user-heatmap)](https://github.com/makutamoto/twitter-user-heatmap)
 [![Cherry Grape](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=websyllabus-frontend)](https://github.com/makutamoto/websyllabus-frontend)
+[![ttygraph](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=ttygraph)](https://github.com/makutamoto/ttygraph)
