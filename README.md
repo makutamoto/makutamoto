@@ -13,6 +13,10 @@ Makutamoto
 -----
 [![コマンドプロンプト3Dレーシングゲーム](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=race-game)](https://github.com/makutamoto/race-game)
 
+Javascript Game
+-----
+[![simple-shooting.js](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=simple-shooting.js)](https://github.com/makutamoto/simple-shooting.js)
+
 AtCoder系制作物
 -----
 [![AtCoder Badges](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=atcoder-badges)](https://github.com/makutamoto/atcoder-badges)
