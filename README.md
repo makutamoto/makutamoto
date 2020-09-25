@@ -21,6 +21,7 @@ AtCoder系制作物
 -----
 [![AtCoder Badges](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=atcoder-badges)](https://github.com/makutamoto/atcoder-badges)
 [![AtCoder相性診断](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=atcoder-aisho-shindan)](https://github.com/makutamoto/atcoder-aisho-shindan)
+[![AtCoder Twitter Profile Updater](https://github-readme-stats.vercel.app/api/pin/?username=makutamoto&repo=atcoder-twitter-profile-updater)](https://github.com/makutamoto/atcoder-twitter-profile-updater)
 
 Minecraft系制作物
 -----
