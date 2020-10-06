@@ -4,6 +4,11 @@ Makutamoto
 [![Makutamoto](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FMakutamoto&style=for-the-badge)](https://atcoder.jp/users/Makutamoto)
 [![Makutamoto](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FMakutamoto&style=for-the-badge)](https://codeforces.com/profile/Makutamoto)
 
+![my-life-1.txt](https://img.shields.io/badge/my--life--1.txt-IE-red?style=for-the-badge)
+![my-life-2.txt](https://img.shields.io/badge/my--life--2.txt-WA-yellow?style=for-the-badge)
+![my-life-3.txt](https://img.shields.io/badge/my--life--3.txt-TLE-yellow?style=for-the-badge)
+![my-life-4.txt](https://img.shields.io/badge/my--life--4.txt-RE-yellow?style=for-the-badge)
+
 よわよわ高専生。特に数学パチンコが苦手。
 
 [![Makutamoto's github stats](https://github-readme-stats.vercel.app/api?username=makutamoto&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
