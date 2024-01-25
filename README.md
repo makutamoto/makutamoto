@@ -33,5 +33,4 @@ Minecraft系制作物
 
 PR
 -----
-
-![banner](https://crowd4u.org/img/crowd4u_banner364x93.png)
+[![crowd4u_banner364x93](https://github.com/makutamoto/makutamoto/assets/34860673/57f40040-98d0-4822-be77-c96e530e8fe3)](https://crowd4u.org/)
